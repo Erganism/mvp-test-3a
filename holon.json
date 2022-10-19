@@ -9,7 +9,7 @@
     "paypal-address":"",
     "keywords":"",
     "geolocation":{"lat":47.7062234,"lon":15.8101491},
-    "origin":"",
+    "origin":"https://github.com/Erganism/mvp-test-2/",
     "holons" : 
     [
     ]
