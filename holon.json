@@ -1,0 +1,16 @@
+{
+    "version":"0.1",
+    "name": "Erganism MVP test 3a",
+    "url" : "https://www.erganism.org/",
+    "image": "https://raw.githubusercontent.com/erganism/mvp-test-3a/main/3a.png",
+    "eth-address": "",
+    "slicer-address":"",
+    "xdai-address":"",
+    "paypal-address":"",
+    "keywords":"",
+    "geolocation":{"lat":47.7062234,"lon":15.8101491},
+    "origin":"",
+    "holons" : 
+    [
+    ]
+}
